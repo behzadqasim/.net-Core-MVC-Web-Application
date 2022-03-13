@@ -1,5 +1,5 @@
 # .net-Core-MVC-Web-Application
-##ASP.net Core MVC Web Quiz Application  
+## ASP.net Core MVC Web Quiz Application  
 Develop an ASP .NET Core MVC application that does the following:
 Allows users to test their knowledge in a topic of your choice by taking a quiz. For this assignment, all questions can be hard-coded (not persisted in database) and you should have at least 20 questions.  
 For every question, user should select one option out of four options presented. 
